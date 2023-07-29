@@ -1,0 +1,21 @@
+.field{
+    width: 100%;
+}
+.container{
+    margin-top: 20px;
+}
+.card{
+    width: 40%;
+    margin:auto; 
+    padding: 20px;
+    background:white;
+}
+.card h1{
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+.card button{
+    margin:10px;
+}
